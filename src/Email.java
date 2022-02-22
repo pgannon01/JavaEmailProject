@@ -72,7 +72,6 @@ public class Email {
 	}
 	
 	/** SETTERS **/
-	
 	// Set the mailbox capacity
 	public void setMailboxCapacity(int capacity)
 	{
